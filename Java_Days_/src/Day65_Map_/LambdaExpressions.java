@@ -1,11 +1,10 @@
 package Day65_Map_;
 
-import java.util.ArrayList;
+import java.util.*;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
 
-import org.apache.poi.hpsf.Array;
 
 public class LambdaExpressions {
 	
